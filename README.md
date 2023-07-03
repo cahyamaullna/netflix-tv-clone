@@ -3,8 +3,6 @@
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/netflix-clone.git
-
 npm i
 
 npm run dev
